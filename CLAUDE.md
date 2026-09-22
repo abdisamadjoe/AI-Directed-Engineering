@@ -10,6 +10,7 @@
 
 ### Branching
 - Never commit directly to `main`/`master`. Use a feature branch.
+- Don't create new branches unless I say so.
 
 ## Package manager
 - Use npm only. Never yarn or pnpm.
